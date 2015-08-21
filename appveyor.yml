@@ -1,0 +1,8 @@
+init:
+  - git config --global core.autocrlf true
+build_script:
+  - msbuild TryGlob.sln
+clone_depth: 1
+os: Visual Studio 2015 CTP
+test: off
+deploy: off
