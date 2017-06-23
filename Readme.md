@@ -4,7 +4,7 @@
 
 **Glob**[1] patterns specify sets of fienames with [wildcard characters](http://en.wikipedia.org/wiki/Wildcard_characters).
 
-This is a glob implementataion in CSharp. It heavily dependents on the `Glob` class defined in [Glob.cs](https://github.com/IronLanguages/main/blob/master/Languages/Ruby/Ruby/Builtins/Glob.cs), which is the Glob implemenation of Ruby programming language for .NET Framework.
+This is a glob implementation in CSharp. It heavily dependents on the `Glob` class defined in [Glob.cs](https://github.com/IronLanguages/main/blob/master/Languages/Ruby/Ruby/Builtins/Glob.cs), which is the Glob implemenation of Ruby programming language for .NET Framework.
 
 ## Usage
 ```csharp
